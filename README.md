@@ -1,0 +1,2 @@
+# RENT-HT-AI---SISTEM-REKOMENDASI-DAN-PEMESANAN-HANDIE-TALKIE-BERBASIS-ARTIFICIAL-INTELLIGENCE
+RENT-HT AI adalah platform sistem rekomendasi dan pemesanan Handie Talkie (HT) berbasis Artificial Intelligence, PHP, dan MySQL. Mengintegrasikan pemrosesan AI untuk mencocokkan spesifikasi HT dengan kebutuhan acara, manajemen ketersediaan unit, modul pemesanan online, serta verifikasi transaksi secara terpusat.
